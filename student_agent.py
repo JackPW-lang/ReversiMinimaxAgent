@@ -1,4 +1,4 @@
-
+# MINIMAX AI AGENT (REVERSI) - JACK PARRY-WINGFIELD & MIRA KANDLIKAR-BLOCH
 from agents.agent import Agent
 from store import register_agent
 import sys
