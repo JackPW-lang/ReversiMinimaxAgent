@@ -9,7 +9,7 @@ This Minimax agent was a joint effort between I, Jack Parry-Wingfield and Mira K
 https://github.com/dmeger/COMP424-Fall2024.
 
 # Instructions for Testing
-In order to observe the AI agent play, run the simulator.py file. By default, the players should be set to our agent (student agent) and the random agent. Change these parameters as you wish - if you yourself want to play against our agent, the two players should be 'student_agent' and 'human_agent' Modify lines 
+In order to observe the AI agent play, run the simulator.py file. By default, the players should be set to our agent (student agent) and the random agent. Change these parameters as you wish - if you yourself want to play against our agent, the two players should be 'student_agent' and 'human_agent' Modify lines 15 and 16 of the simulator.py file to reflect this (the order does not matter).
 
 # Introduction and Executive Summary
 
