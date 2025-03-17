@@ -8,6 +8,9 @@ Here, we write a Reversi-playing minimax agent using Python. The agent is capabl
 This Minimax agent was a joint effort between I, Jack Parry-Wingfield and Mira Kandlikar-Bloch. Neither of us claim any credit for the other files, which were provided as starter code to start and run the Reversi game, load the GUI, and create the human and random agent opponents. This starter code cand be found and accessed at 
 https://github.com/dmeger/COMP424-Fall2024.
 
+# Instructions for Testing
+In order to observe the AI agent play, run the simulator.py file. By default, the players should be set to our agent (student agent) and the random agent. Change these parameters as you wish - if you yourself want to play against our agent, the two players should be 'student_agent' and 'human_agent' Modify lines 
+
 # Introduction and Executive Summary
 
 Our Reversi agent uses an implementation of the minimax algorithm, which
