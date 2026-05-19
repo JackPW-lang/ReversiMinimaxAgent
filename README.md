@@ -5,7 +5,7 @@ Here, we write a Reversi-playing minimax agent using Python. The agent is capabl
 
 
 # Collaboration
-This Minimax agent was a joint effort between I, Jack Parry-Wingfield and Mira Kandlikar-Bloch. Neither of us claim any credit for the other files, which were provided as starter code to start and run the Reversi game, load the GUI, and create the human and random agent opponents. This starter code cand be found and accessed at 
+This Minimax agent was a joint effort between I, Jack Parry-Wingfield and Mira Kandlikar-Bloch. Neither of us claim any credit for the other files, which were provided as starter code to start and run the Reversi game, load the GUI, and create the human and random agent opponents. This starter code can be found and accessed at 
 https://github.com/dmeger/COMP424-Fall2024.
 
 # Instructions for Testing
